@@ -42,13 +42,31 @@ The goal is a standalone experience: **neither a computer nor an open Serial Mon
 
 ## Demo
 
-*Photos and a gameplay video are coming soon.*
+<h2>Hardware overview</h2>
 
-<!-- Add a photo of the assembled prototype to docs/images/ -->
-<!-- ![PING PONG SLIDER prototype](docs/images/prototype.jpg) -->
+<p align="center">
+  <img src="docs/images/ping-pong-slider-boards.png"
+       alt="Two Ping Pong Slider boards running the main menu"
+       width="700">
+</p>
 
-<!-- Replace this placeholder with an actual video link when available. -->
-<!-- [▶ Watch the gameplay demo](https://example.com/video) -->
+<p align="center">
+  <em>Two IFT-S3 boards equipped with XIAO ESP32-S3
+  microcontrollers, OLED displays and external Wi-Fi antennas.</em>
+</p>
+
+<h2>Game results</h2>
+
+<p align="center">
+  <img src="docs/images/ping-pong-slider-results.png"
+       alt="Ping Pong Slider final match statistics"
+       width="400">
+</p>
+
+<p align="center">
+  <em>Final match statistics showing the score,
+  total paddle rebounds and elapsed game time.</em>
+</p>
 
 ## Hardware
 
