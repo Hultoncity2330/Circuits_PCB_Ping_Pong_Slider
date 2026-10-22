@@ -43,10 +43,10 @@ The goal is a standalone experience: **neither a computer nor an open Serial Mon
 ## Demo
 
 <p align="center">
-  <img src="docs/images/20261021_171604.jpg"
+  <img src="images/20261021_171604.jpg"
        alt="Two Ping Pong Slider boards"
        width="48%">
-  <img src="docs/images/20261021_172258.jpg"
+  <img src="images/20261021_172258.jpg"
        alt="Ping Pong Slider final match statistics"
        width="36%">
 </p>
